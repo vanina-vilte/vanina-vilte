@@ -1,16 +1,16 @@
-### Hi there 👋
+# ¡Hola, bienvenidx! 👽
 
-<!--
-**vanina-vilte/vanina-vilte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mi nombre es Vanina Vilte, soy estudiante de Programación Web Full Stack
 
-Here are some ideas to get you started:
+![Alt Text](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+> Soy una persona responsable, empática, apasionada por la tecnología y el arte. Tengo buenas relaciones interpersonales, me considero buena en la resolución de conflictos y en el trabajo en equipo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Mis conocimientos
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+
+
+
+## Podes contactarme a traves de...
+- **E-mail:** vanina.vilte@hotmail.com
+- **Linkedin:** https://www.linkedin.com/in/vanina-vilte/
