@@ -1,6 +1,6 @@
 # ¡Hola, bienvenidx! 👽
 
-### Mi nombre es Vanina Vilte, soy estudiante de Programación Web Full Stack
+### Mi nombre es Vanina Vilte, soy Full Stack developer y estudiante de Ing. en Informática 
 
 ![Alt Text](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 > Soy una persona responsable, empática, apasionada por la tecnología y el arte. Tengo buenas relaciones interpersonales, me considero buena en la resolución de conflictos y en el trabajo en equipo.
