@@ -13,8 +13,9 @@
 
 
 ## Proyectos
-A continuación les muestro el ultimo proyecto en el que estoy trabajando con mi equipo en Digital House, es un e-commerce de indumentaria femenina
-- https://lskv-fc-g12.herokuapp.com/
+A continuación les muestro el ultimo proyecto en el que estuve trabajando con mi equipo en el Bootcamp de CodingDojo, es una app web desarrollada en JAVA + SpringBoot,
+orientada a estudiantes universitarios, para subir apuntes, hablar en foros sobre catedras, TPS, etc y formar grupos de estudio ♥
+- https://github.com/Pablo-Spadajacy/Ayudadita
 
 
 ## Podes contactarme a traves de...
