@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 Sobre mí...</h3>
+<h3 align="left">👩🏻‍💻 Sobre mí...</h3>
 
 ###
 
@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/vanina-vilte/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
   </a>
-  <a href="vaninasvilte@gmail.com" target="_blank">
+  <a href="mailto:vaninasvilte@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
   </a>
   <a href="https://discord.gg/Q9SGzVET" target="_blank">
