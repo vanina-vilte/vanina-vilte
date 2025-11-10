@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Apasionada por la tecnología y el diseño de producto. Convierto problemas complejos en interfaces claras, accesibles y medibles. Me destacan el trabajo en equipo, la responsabilidad y muchas ganas de aprender y mejorar.<br>🎓 Estudiante avanzada en la carrera de Ingeniería en Informática en la Universidad Argentina de la Empresa, Buenos Aires.<br>🎨 Me encuentro en un proceso de aprendizaje continuo en el área de desarrollo web, UX/UI, sistemas de diseño, microinteracciones y prototipado en Figma.<br><br>📚 Actualmente:<br>Desarrollo Frontend — AdaITW<br>Diplomatura en UX/UI — UTN</p>
+<p align="left">🚀 Apasionada por la tecnología y el diseño de producto. Convierto problemas complejos en interfaces claras, accesibles y medibles. Me destacan el trabajo en equipo, la responsabilidad y muchas ganas de aprender y mejorar.<br>🎓 Estudiante avanzada en la carrera de Ingeniería en Informática en la Universidad Argentina de la Empresa, Buenos Aires.<br>🎨 Me encuentro en un proceso de aprendizaje continuo en el área de desarrollo web, UX/UI, sistemas de diseño, microinteracciones y prototipado en Figma.<br><br>📚 Estoy estudiando:<br>Desarrollo Frontend — AdaITW<br>Diplomatura en UX/UI — UTN</p>
 
 ###
 
